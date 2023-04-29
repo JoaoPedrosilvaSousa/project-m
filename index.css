@@ -1,0 +1,40 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(coracoes-vermelhos-em-papel-de-parede-de-fundo-branco_280388-985.avif);
+}
+h1{
+    background-color: white;
+    color: red;
+    text-align: center;
+    text-decoration: underline red;
+    text-shadow: 1px 1px black;
+    size: 50px;
+    padding: 30px;
+}
+h2{
+    text-align: center;
+    color: red;
+    text-shadow: 1px 1px black;
+    text-decoration: underline red;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    padding: 300px;
+    list-style-type: none;
+}
+a{
+    display: inline-block;
+    color: white;
+    text-shadow: 1px 1px black;
+    background-color: red;
+    height: 50px;
+    width: 50px;
+    line-height: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    size: 40px;
+    border-radius: 5px;
+    box-shadow: 5px 5px black;
+}
